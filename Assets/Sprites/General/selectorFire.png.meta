@@ -1,0 +1,1298 @@
+fileFormatVersion: 2
+guid: 43dd94ab4822bb445a55c8f85644e7d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2391932919398904643
+    second: selectorFire_0
+  - first:
+      213: 4214787601888085274
+    second: selectorFire_1
+  - first:
+      213: 746987904256257914
+    second: selectorFire_2
+  - first:
+      213: 4610676491960031987
+    second: selectorFire_3
+  - first:
+      213: -8799829350645654828
+    second: selectorFire_4
+  - first:
+      213: -6790523681599254408
+    second: selectorFire_5
+  - first:
+      213: 1697668135001624673
+    second: selectorFire_6
+  - first:
+      213: -501680622062339493
+    second: selectorFire_7
+  - first:
+      213: 3644649954445805505
+    second: selectorFire_8
+  - first:
+      213: -883850734952475305
+    second: selectorFire_9
+  - first:
+      213: -5830815528199288020
+    second: selectorFire_10
+  - first:
+      213: 7236884353694701691
+    second: selectorFire_11
+  - first:
+      213: 4072335792529097756
+    second: selectorFire_12
+  - first:
+      213: 5398606803908168663
+    second: selectorFire_13
+  - first:
+      213: 6535943725647641539
+    second: selectorFire_14
+  - first:
+      213: 3076691592733126017
+    second: selectorFire_15
+  - first:
+      213: 2516498364151235717
+    second: selectorFire_16
+  - first:
+      213: 5022921603417290537
+    second: selectorFire_17
+  - first:
+      213: -7084129530461194688
+    second: selectorFire_18
+  - first:
+      213: 4057283653171141710
+    second: selectorFire_19
+  - first:
+      213: 2990311571935195418
+    second: selectorFire_20
+  - first:
+      213: 2945820138358711842
+    second: selectorFire_21
+  - first:
+      213: 6281185837307627154
+    second: selectorFire_22
+  - first:
+      213: 7423001763226160449
+    second: selectorFire_23
+  - first:
+      213: -4232313263453637759
+    second: selectorFire_24
+  - first:
+      213: 91108637621544869
+    second: selectorFire_25
+  - first:
+      213: -3723353222009407213
+    second: selectorFire_26
+  - first:
+      213: 2519964405627246911
+    second: selectorFire_27
+  - first:
+      213: -7271881004372951629
+    second: selectorFire_28
+  - first:
+      213: -8440917448640867632
+    second: selectorFire_29
+  - first:
+      213: -2974177303692425641
+    second: selectorFire_30
+  - first:
+      213: 7909154880621531292
+    second: selectorFire_31
+  - first:
+      213: -6697742048724606816
+    second: selectorFire_32
+  - first:
+      213: -7765400782145927089
+    second: selectorFire_33
+  - first:
+      213: -3182193274315483867
+    second: selectorFire_34
+  - first:
+      213: -6439370098987100259
+    second: selectorFire_35
+  - first:
+      213: -2186877693980892849
+    second: selectorFire_36
+  - first:
+      213: -6409531015741507025
+    second: selectorFire_37
+  - first:
+      213: 8505437499847309067
+    second: selectorFire_38
+  - first:
+      213: 1642155859471505900
+    second: selectorFire_39
+  - first:
+      213: 34558422106366517
+    second: selectorFire_40
+  - first:
+      213: -1817672947957596904
+    second: selectorFire_41
+  - first:
+      213: 564719304379816384
+    second: selectorFire_42
+  - first:
+      213: -3820347813552193967
+    second: selectorFire_43
+  - first:
+      213: 1530483692930542089
+    second: selectorFire_44
+  - first:
+      213: 1186774127761490233
+    second: selectorFire_45
+  - first:
+      213: 3714980494982118858
+    second: selectorFire_46
+  - first:
+      213: 7129266783350094131
+    second: selectorFire_47
+  - first:
+      213: 6649364318982399244
+    second: selectorFire_48
+  - first:
+      213: 7131025064610085953
+    second: selectorFire_49
+  - first:
+      213: -8032650635233532961
+    second: selectorFire_50
+  - first:
+      213: 1412157064337665073
+    second: selectorFire_51
+  - first:
+      213: -4290433443303443522
+    second: selectorFire_52
+  - first:
+      213: -753402864898966071
+    second: selectorFire_53
+  - first:
+      213: -4541587899024739130
+    second: selectorFire_54
+  - first:
+      213: -1301220260256684865
+    second: selectorFire_55
+  - first:
+      213: 8715021504698481513
+    second: selectorFire_56
+  - first:
+      213: -1993771765014328552
+    second: selectorFire_57
+  - first:
+      213: -3063997503563857440
+    second: selectorFire_58
+  - first:
+      213: -4904010195183916201
+    second: selectorFire_59
+  - first:
+      213: -2606977098961647248
+    second: selectorFire_60
+  - first:
+      213: -7275652685006757585
+    second: selectorFire_61
+  - first:
+      213: -3253396508282685491
+    second: selectorFire_62
+  - first:
+      213: -618840761977017095
+    second: selectorFire_63
+  - first:
+      213: -9214154713816652465
+    second: selectorFire_64
+  - first:
+      213: -7166902994090296672
+    second: selectorFire_65
+  - first:
+      213: -2299971035686480572
+    second: selectorFire_66
+  - first:
+      213: -3902307640602569751
+    second: selectorFire_67
+  - first:
+      213: 6678224001861086332
+    second: selectorFire_68
+  - first:
+      213: 946599218275791807
+    second: selectorFire_69
+  - first:
+      213: -2118674205906996829
+    second: selectorFire_70
+  - first:
+      213: -4834877268019378748
+    second: selectorFire_71
+  - first:
+      213: 229044500630681180
+    second: selectorFire_72
+  - first:
+      213: 4780743715618421922
+    second: selectorFire_73
+  - first:
+      213: -2129865221533507836
+    second: selectorFire_74
+  - first:
+      213: 9043401971412911183
+    second: selectorFire_75
+  - first:
+      213: -4822798277588726768
+    second: selectorFire_76
+  - first:
+      213: 5559421861981550668
+    second: selectorFire_77
+  - first:
+      213: 1448453424164845242
+    second: selectorFire_78
+  - first:
+      213: -2018242072452126966
+    second: selectorFire_79
+  - first:
+      213: 4704281915127157422
+    second: selectorFire_80
+  - first:
+      213: -8608278297326147881
+    second: selectorFire_81
+  - first:
+      213: -7713330979973176173
+    second: selectorFire_82
+  - first:
+      213: 8454022887094120541
+    second: selectorFire_83
+  - first:
+      213: 2715644343508774391
+    second: selectorFire_84
+  - first:
+      213: -6868647252786351522
+    second: selectorFire_85
+  - first:
+      213: -9064882377602899951
+    second: selectorFire_86
+  - first:
+      213: -435184171748386497
+    second: selectorFire_87
+  - first:
+      213: 2734960910369713655
+    second: selectorFire_88
+  - first:
+      213: 1374676087527068837
+    second: selectorFire_89
+  - first:
+      213: -4964434294307331414
+    second: selectorFire_90
+  - first:
+      213: 3464950095211333311
+    second: selectorFire_91
+  - first:
+      213: 1783724956020202074
+    second: selectorFire_92
+  - first:
+      213: 1576709900417398833
+    second: selectorFire_93
+  - first:
+      213: -4392868599158002299
+    second: selectorFire_94
+  - first:
+      213: -4052537208355055805
+    second: selectorFire_95
+  - first:
+      213: 357250567626916617
+    second: selectorFire_96
+  - first:
+      213: -5024970145916825630
+    second: selectorFire_97
+  - first:
+      213: 5510814831432726738
+    second: selectorFire_98
+  - first:
+      213: 1291122163063886450
+    second: selectorFire_99
+  - first:
+      213: -3255434409436400899
+    second: selectorFire_100
+  - first:
+      213: 9202675256774304177
+    second: selectorFire_101
+  - first:
+      213: 8520172421114468974
+    second: selectorFire_102
+  - first:
+      213: 3489531286524246751
+    second: selectorFire_103
+  - first:
+      213: -6193888242205021053
+    second: selectorFire_104
+  - first:
+      213: 3864801863796212511
+    second: selectorFire_105
+  - first:
+      213: 7342771371105627412
+    second: selectorFire_106
+  - first:
+      213: -7847348934040420116
+    second: selectorFire_107
+  - first:
+      213: 4281713010282189947
+    second: selectorFire_108
+  - first:
+      213: -820230553612600421
+    second: selectorFire_109
+  - first:
+      213: -7175437480117005371
+    second: selectorFire_110
+  - first:
+      213: 8425784810018279390
+    second: selectorFire_111
+  - first:
+      213: -507903667139959037
+    second: selectorFire_112
+  - first:
+      213: 3031147170601723533
+    second: selectorFire_113
+  - first:
+      213: 18167123350508034
+    second: selectorFire_114
+  - first:
+      213: 6362071982095088833
+    second: selectorFire_115
+  - first:
+      213: -2347867274728112339
+    second: selectorFire_116
+  - first:
+      213: 4886524857913412903
+    second: selectorFire_117
+  - first:
+      213: -5179349853208936862
+    second: selectorFire_118
+  - first:
+      213: 704058869840272018
+    second: selectorFire_119
+  - first:
+      213: -7684359925757507212
+    second: selectorFire_120
+  - first:
+      213: -2426229353677289716
+    second: selectorFire_121
+  - first:
+      213: 6753606114773469931
+    second: selectorFire_122
+  - first:
+      213: -1525675136373520620
+    second: selectorFire_123
+  - first:
+      213: -8149884216206610134
+    second: selectorFire_124
+  - first:
+      213: 6417145535853856018
+    second: selectorFire_125
+  - first:
+      213: 237964160052053117
+    second: selectorFire_126
+  - first:
+      213: 6675645218410487487
+    second: selectorFire_127
+  - first:
+      213: 6388157908747047830
+    second: selectorFire_128
+  - first:
+      213: 6269700586532459798
+    second: selectorFire_129
+  - first:
+      213: 7962861325185483658
+    second: selectorFire_130
+  - first:
+      213: -4425877727800471115
+    second: selectorFire_131
+  - first:
+      213: -2157774536941638573
+    second: selectorFire_132
+  - first:
+      213: -7014166483774746875
+    second: selectorFire_133
+  - first:
+      213: -3436668515944902447
+    second: selectorFire_134
+  - first:
+      213: 6045842131016432927
+    second: selectorFire_135
+  - first:
+      213: -5773335708972647790
+    second: selectorFire_136
+  - first:
+      213: -1170856648868616440
+    second: selectorFire_137
+  - first:
+      213: 6611901204217809865
+    second: selectorFire_138
+  - first:
+      213: 1093828662064838761
+    second: selectorFire_139
+  - first:
+      213: 3976898599625314193
+    second: selectorFire_140
+  - first:
+      213: 7569014644567455726
+    second: selectorFire_141
+  - first:
+      213: -8461796652776407261
+    second: selectorFire_142
+  - first:
+      213: 2617751230989904753
+    second: selectorFire_143
+  - first:
+      213: -8225426683437561900
+    second: selectorFire_144
+  - first:
+      213: -2787691447391603661
+    second: selectorFire_145
+  - first:
+      213: 7013907667063086710
+    second: selectorFire_146
+  - first:
+      213: 7501730142593879114
+    second: selectorFire_147
+  - first:
+      213: -7277382008599450117
+    second: selectorFire_148
+  - first:
+      213: -5558829678422314422
+    second: selectorFire_149
+  - first:
+      213: -6408025206672969370
+    second: selectorFire_150
+  - first:
+      213: -3736170926018709617
+    second: selectorFire_151
+  - first:
+      213: 4210344605269946502
+    second: selectorFire_152
+  - first:
+      213: -7971515700968720355
+    second: selectorFire_153
+  - first:
+      213: -3944092466080493313
+    second: selectorFire_154
+  - first:
+      213: -3372586802192223606
+    second: selectorFire_155
+  - first:
+      213: -2214514948011476466
+    second: selectorFire_156
+  - first:
+      213: -5445026439348099950
+    second: selectorFire_157
+  - first:
+      213: -6969818619877324713
+    second: selectorFire_158
+  - first:
+      213: -7418214075673545905
+    second: selectorFire_159
+  - first:
+      213: 122801039717900989
+    second: selectorFire_160
+  - first:
+      213: -3480279559711918665
+    second: selectorFire_161
+  - first:
+      213: 8547677947922047193
+    second: selectorFire_162
+  - first:
+      213: -5153087148185446671
+    second: selectorFire_163
+  - first:
+      213: 6089546715254032182
+    second: selectorFire_164
+  - first:
+      213: -7661638593590257770
+    second: selectorFire_165
+  - first:
+      213: 6010038697616541630
+    second: selectorFire_166
+  - first:
+      213: 5628984041404242856
+    second: selectorFire_167
+  - first:
+      213: -2630445525616336624
+    second: selectorFire_168
+  - first:
+      213: -7560546407253532702
+    second: selectorFire_169
+  - first:
+      213: -8803271491123930008
+    second: selectorFire_170
+  - first:
+      213: 2687750405018048861
+    second: selectorFire_171
+  - first:
+      213: 3079591764119291021
+    second: selectorFire_172
+  - first:
+      213: 7433064460437336175
+    second: selectorFire_173
+  - first:
+      213: -247387375184155713
+    second: selectorFire_174
+  - first:
+      213: 8474583400699468188
+    second: selectorFire_175
+  - first:
+      213: 692231390811755760
+    second: selectorFire_176
+  - first:
+      213: 3662870843972519962
+    second: selectorFire_177
+  - first:
+      213: 6028035056321082495
+    second: selectorFire_178
+  - first:
+      213: 3284532790601840301
+    second: selectorFire_179
+  - first:
+      213: 185733674813783793
+    second: selectorFire_180
+  - first:
+      213: -3610828147075783624
+    second: selectorFire_181
+  - first:
+      213: 6614354408908210902
+    second: selectorFire_182
+  - first:
+      213: -5920871335968785735
+    second: selectorFire_183
+  - first:
+      213: -2993825208785578767
+    second: selectorFire_184
+  - first:
+      213: 2803877285595358424
+    second: selectorFire_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 18
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: selectorFire_5
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 360
+        width: 261
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5022076, y: 0.5519345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870166770b633c1a0800000000000000
+      internalID: -6790523681599254408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_6
+      rect:
+        serializedVersion: 2
+        x: 10417
+        y: 686
+        width: 487
+        height: 210
+      alignment: 9
+      pivot: {x: 0.50744355, y: 0.43095702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16095459c245f8710800000000000000
+      internalID: 1697668135001624673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_7
+      rect:
+        serializedVersion: 2
+        x: 10444
+        y: 497
+        width: 480
+        height: 187
+      alignment: 9
+      pivot: {x: 0.48741454, y: 0.5323062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5af64bd12ca909f0800000000000000
+      internalID: -501680622062339493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_8
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 699
+        width: 341
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7c269c2d5649230800000000000000
+      internalID: 3644649954445805505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_9
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 694
+        width: 328
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75590bc707eebb3f0800000000000000
+      internalID: -883850734952475305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_10
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 694
+        width: 345
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b89da8b28c41fa0800000000000000
+      internalID: -5830815528199288020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_78
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 521
+        width: 349
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab63b0d07b0f91410800000000000000
+      internalID: 1448453424164845242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_79
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 513
+        width: 342
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a072eb83783cdf3e0800000000000000
+      internalID: -2018242072452126966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_80
+      rect:
+        serializedVersion: 2
+        x: 4682
+        y: 517
+        width: 336
+        height: 147
+      alignment: 9
+      pivot: {x: 0.49, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2d27a3a77f84140800000000000000
+      internalID: 4704281915127157422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_134
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 374
+        width: 207
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0d55861308e40d0800000000000000
+      internalID: -3436668515944902447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_135
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 377
+        width: 207
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d335bc26527e350800000000000000
+      internalID: 6045842131016432927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_136
+      rect:
+        serializedVersion: 2
+        x: 4739
+        y: 379
+        width: 208
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a7b99d2cdf0efa0800000000000000
+      internalID: -5773335708972647790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_0
+      rect:
+        serializedVersion: 2
+        x: 6607
+        y: 702
+        width: 350
+        height: 152
+      alignment: 9
+      pivot: {x: 0.49889648, y: 0.47715878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eebccfb489746f41aec553571a85002
+      internalID: -1064278528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_1
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 524
+        width: 318
+        height: 141
+      alignment: 9
+      pivot: {x: 0.51210725, y: 0.5163821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a5d2ecc314b14fae4e997c4cbb9fe
+      internalID: 4214787601888085274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_2
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 379
+        width: 198
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4906191, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36404b22bf2554fb12d55e740ffbec
+      internalID: 746987904256257914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_3
+      rect:
+        serializedVersion: 2
+        x: 8515
+        y: 694
+        width: 422
+        height: 177
+      alignment: 9
+      pivot: {x: 0.4835373, y: 0.45661676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb8cfbc331eef4d897a8170da4fffe
+      internalID: 4610676491960031987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_4
+      rect:
+        serializedVersion: 2
+        x: 8548
+        y: 501
+        width: 390
+        height: 176
+      alignment: 9
+      pivot: {x: 0.49511218, y: 0.5288915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef73eb1ca33f00d47ac974f124c7f668
+      internalID: -8799829350645654828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_11
+      rect:
+        serializedVersion: 2
+        x: 10497
+        y: 361
+        width: 333
+        height: 135
+      alignment: 9
+      pivot: {x: 0.49468902, y: 0.5262006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe17fdf94ea474429ddd4596eac84e4
+      internalID: 1005917390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_12
+      rect:
+        serializedVersion: 2
+        x: 12330
+        y: 685
+        width: 544
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab7673e6471dd04b912ae8abc79b28b
+      internalID: -655423569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_13
+      rect:
+        serializedVersion: 2
+        x: 12353
+        y: 489
+        width: 534
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2f6d5f8819172439cc9b1396c426e4
+      internalID: 5398606803908168663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selectorFire_14
+      rect:
+        serializedVersion: 2
+        x: 12394
+        y: 352
+        width: 421
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d631335635b32646a80a00aebe01706
+      internalID: 6535943725647641539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fa86209684863b54f830c605d4e09a10
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      selectorFire_0: -1064278528
+      selectorFire_1: 4214787601888085274
+      selectorFire_10: -5830815528199288020
+      selectorFire_101: 9202675256774304177
+      selectorFire_102: 8520172421114468974
+      selectorFire_103: 3489531286524246751
+      selectorFire_104: -6193888242205021053
+      selectorFire_105: 3864801863796212511
+      selectorFire_106: 7342771371105627412
+      selectorFire_107: -7847348934040420116
+      selectorFire_108: 4281713010282189947
+      selectorFire_11: 1005917390
+      selectorFire_113: 3031147170601723533
+      selectorFire_114: 18167123350508034
+      selectorFire_115: 6362071982095088833
+      selectorFire_116: -2347867274728112339
+      selectorFire_117: 4886524857913412903
+      selectorFire_118: -5179349853208936862
+      selectorFire_119: 704058869840272018
+      selectorFire_12: -655423569
+      selectorFire_120: -7684359925757507212
+      selectorFire_121: -2426229353677289716
+      selectorFire_122: 6753606114773469931
+      selectorFire_125: 6417145535853856018
+      selectorFire_126: 237964160052053117
+      selectorFire_127: 6675645218410487487
+      selectorFire_128: 6388157908747047830
+      selectorFire_129: 6269700586532459798
+      selectorFire_13: 5398606803908168663
+      selectorFire_130: 7962861325185483658
+      selectorFire_131: -4425877727800471115
+      selectorFire_132: -2157774536941638573
+      selectorFire_133: -7014166483774746875
+      selectorFire_134: -3436668515944902447
+      selectorFire_135: 6045842131016432927
+      selectorFire_136: -5773335708972647790
+      selectorFire_14: 6535943725647641539
+      selectorFire_140: 3976898599625314193
+      selectorFire_141: 7569014644567455726
+      selectorFire_142: -8461796652776407261
+      selectorFire_143: 2617751230989904753
+      selectorFire_144: -8225426683437561900
+      selectorFire_145: -2787691447391603661
+      selectorFire_146: 7013907667063086710
+      selectorFire_147: 7501730142593879114
+      selectorFire_148: -7277382008599450117
+      selectorFire_149: -5558829678422314422
+      selectorFire_15: 3076691592733126017
+      selectorFire_154: -3944092466080493313
+      selectorFire_155: -3372586802192223606
+      selectorFire_156: -2214514948011476466
+      selectorFire_157: -5445026439348099950
+      selectorFire_158: -6969818619877324713
+      selectorFire_159: -7418214075673545905
+      selectorFire_16: 2516498364151235717
+      selectorFire_160: 122801039717900989
+      selectorFire_161: -3480279559711918665
+      selectorFire_162: 8547677947922047193
+      selectorFire_163: -5153087148185446671
+      selectorFire_164: 6089546715254032182
+      selectorFire_168: -2630445525616336624
+      selectorFire_169: -7560546407253532702
+      selectorFire_17: 5022921603417290537
+      selectorFire_170: -8803271491123930008
+      selectorFire_171: 2687750405018048861
+      selectorFire_175: 8474583400699468188
+      selectorFire_176: 692231390811755760
+      selectorFire_177: 3662870843972519962
+      selectorFire_178: 6028035056321082495
+      selectorFire_179: 3284532790601840301
+      selectorFire_18: -7084129530461194688
+      selectorFire_180: 185733674813783793
+      selectorFire_181: -3610828147075783624
+      selectorFire_182: 6614354408908210902
+      selectorFire_183: -5920871335968785735
+      selectorFire_184: -2993825208785578767
+      selectorFire_185: 2803877285595358424
+      selectorFire_19: 4057283653171141710
+      selectorFire_2: 746987904256257914
+      selectorFire_20: 2990311571935195418
+      selectorFire_21: 2945820138358711842
+      selectorFire_24: -4232313263453637759
+      selectorFire_25: 91108637621544869
+      selectorFire_26: -3723353222009407213
+      selectorFire_27: 2519964405627246911
+      selectorFire_28: -7271881004372951629
+      selectorFire_29: -8440917448640867632
+      selectorFire_3: 4610676491960031987
+      selectorFire_30: -2974177303692425641
+      selectorFire_31: 7909154880621531292
+      selectorFire_32: -6697742048724606816
+      selectorFire_36: -2186877693980892849
+      selectorFire_37: -6409531015741507025
+      selectorFire_38: 8505437499847309067
+      selectorFire_39: 1642155859471505900
+      selectorFire_4: -8799829350645654828
+      selectorFire_40: 34558422106366517
+      selectorFire_41: -1817672947957596904
+      selectorFire_42: 564719304379816384
+      selectorFire_43: -3820347813552193967
+      selectorFire_44: 1530483692930542089
+      selectorFire_46: 3714980494982118858
+      selectorFire_47: 7129266783350094131
+      selectorFire_48: 6649364318982399244
+      selectorFire_49: 7131025064610085953
+      selectorFire_5: -6790523681599254408
+      selectorFire_50: -8032650635233532961
+      selectorFire_57: -1993771765014328552
+      selectorFire_58: -3063997503563857440
+      selectorFire_59: -4904010195183916201
+      selectorFire_6: 1697668135001624673
+      selectorFire_60: -2606977098961647248
+      selectorFire_61: -7275652685006757585
+      selectorFire_62: -3253396508282685491
+      selectorFire_63: -618840761977017095
+      selectorFire_64: -9214154713816652465
+      selectorFire_65: -7166902994090296672
+      selectorFire_66: -2299971035686480572
+      selectorFire_67: -3902307640602569751
+      selectorFire_68: 6678224001861086332
+      selectorFire_69: 946599218275791807
+      selectorFire_7: -501680622062339493
+      selectorFire_70: -2118674205906996829
+      selectorFire_71: -4834877268019378748
+      selectorFire_72: 229044500630681180
+      selectorFire_73: 4780743715618421922
+      selectorFire_74: -2129865221533507836
+      selectorFire_75: 9043401971412911183
+      selectorFire_76: -4822798277588726768
+      selectorFire_77: 5559421861981550668
+      selectorFire_78: 1448453424164845242
+      selectorFire_79: -2018242072452126966
+      selectorFire_8: 3644649954445805505
+      selectorFire_80: 4704281915127157422
+      selectorFire_83: 8454022887094120541
+      selectorFire_84: 2715644343508774391
+      selectorFire_85: -6868647252786351522
+      selectorFire_86: -9064882377602899951
+      selectorFire_87: -435184171748386497
+      selectorFire_88: 2734960910369713655
+      selectorFire_89: 1374676087527068837
+      selectorFire_9: -883850734952475305
+      selectorFire_90: -4964434294307331414
+      selectorFire_91: 3464950095211333311
+      selectorFire_92: 1783724956020202074
+      selectorFire_93: 1576709900417398833
+      selectorFire_94: -4392868599158002299
+      selectorFire_95: -4052537208355055805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 7e41087d1720b47479097fe46a19f7cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1431586157035729953
+    second: walk_stance_punch_0
+  - first:
+      213: -6398280034979766202
+    second: walk_stance_punch_1
+  - first:
+      213: -6746161206613696483
+    second: walk_stance_punch_2
+  - first:
+      213: -4294937629996106370
+    second: walk_stance_punch_3
+  - first:
+      213: -1777156371146433722
+    second: walk_stance_punch_4
+  - first:
+      213: 5423337918748210254
+    second: walk_stance_punch_5
+  - first:
+      213: -8764707071632148601
+    second: walk_stance_punch_6
+  - first:
+      213: 7626171779811892884
+    second: walk_stance_punch_7
+  - first:
+      213: -4836940313148919504
+    second: walk_stance_punch_8
+  - first:
+      213: 2397941386645612180
+    second: walk_stance_punch_9
+  - first:
+      213: -3382856300200039894
+    second: walk_stance_punch_10
+  - first:
+      213: -4914202565883623948
+    second: walk_stance_punch_11
+  - first:
+      213: 8649354568558165528
+    second: walk_stance_punch_12
+  - first:
+      213: 877397142565405468
+    second: walk_stance_punch_13
+  - first:
+      213: -6163370868409061145
+    second: walk_stance_punch_14
+  - first:
+      213: -4290817566755470576
+    second: walk_stance_punch_15
+  - first:
+      213: -3979029697810140954
+    second: walk_stance_punch_16
+  - first:
+      213: 4939661409207232422
+    second: walk_stance_punch_17
+  - first:
+      213: 1391857695336606772
+    second: walk_stance_punch_18
+  - first:
+      213: 102834170023957360
+    second: walk_stance_punch_19
+  - first:
+      213: -2242138685390550767
+    second: walk_stance_punch_20
+  - first:
+      213: 2130115312719641317
+    second: walk_stance_punch_21
+  - first:
+      213: -6738397549810470366
+    second: walk_stance_punch_22
+  - first:
+      213: 4973359172059091193
+    second: walk_stance_punch_23
+  - first:
+      213: -3965322571718083965
+    second: walk_stance_punch_24
+  - first:
+      213: -3183791565538623657
+    second: walk_stance_punch_25
+  - first:
+      213: 1317225042929336521
+    second: walk_stance_punch_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_stance_punch_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2359
+        width: 182
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1243b7366040ed310800000000000000
+      internalID: 1431586157035729953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2350
+        width: 172
+        height: 674
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640ae8d253eb437a0800000000000000
+      internalID: -6398280034979766202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2352
+        width: 177
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1025421022d062a0800000000000000
+      internalID: -6746161206613696483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_3
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2351
+        width: 248
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dbf972bf05564c0800000000000000
+      internalID: -4294937629996106370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_4
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2352
+        width: 189
+        height: 657
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b9e7b32b54657e0800000000000000
+      internalID: -1777156371146433722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_5
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2347
+        width: 153
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44b4ef5a11934b40800000000000000
+      internalID: 5423337918748210254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_6
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 2337
+        width: 137
+        height: 659
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787f2031b518d5680800000000000000
+      internalID: -8764707071632148601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_7
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2337
+        width: 201
+        height: 658
+      alignment: 9
+      pivot: {x: 0.35996652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49edbcb14da95d960800000000000000
+      internalID: 7626171779811892884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_8
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2333
+        width: 171
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031fdf2996cbfdcb0800000000000000
+      internalID: -4836940313148919504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_9
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2332
+        width: 160
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496283f7cf2374120800000000000000
+      internalID: 2397941386645612180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_10
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2325
+        width: 194
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a626c3e1ead01d0800000000000000
+      internalID: -3382856300200039894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_11
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 2324
+        width: 182
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5813a8dce3dcbb0800000000000000
+      internalID: -4914202565883623948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_12
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 2324
+        width: 159
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ebf43672ea80870800000000000000
+      internalID: 8649354568558165528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1580
+        width: 341
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13cd817d042d2c00800000000000000
+      internalID: 877397142565405468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1575
+        width: 330
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0bc71a9de477aa0800000000000000
+      internalID: -6163370868409061145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_15
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1571
+        width: 303
+        height: 673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013c8812824f374c0800000000000000
+      internalID: -4290817566755470576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_16
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1568
+        width: 268
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0fb475295a7c8c0800000000000000
+      internalID: -3979029697810140954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_17
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1565
+        width: 234
+        height: 675
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7a08651e33d8440800000000000000
+      internalID: 4939661409207232422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 865
+        width: 343
+        height: 665
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cae64133fd05310800000000000000
+      internalID: 1391857695336606772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 858
+        width: 341
+        height: 664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073dc0ff1275d6100800000000000000
+      internalID: 102834170023957360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_20
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 846
+        width: 390
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1198228beb252e0e0800000000000000
+      internalID: -2242138685390550767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_21
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 833
+        width: 407
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea36415790bf8d10800000000000000
+      internalID: 2130115312719641317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_22
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 828
+        width: 474
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2223f2841276c72a0800000000000000
+      internalID: -6738397549810470366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 175
+        width: 385
+        height: 645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0530721dbe40540800000000000000
+      internalID: 4973359172059091193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_24
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 171
+        width: 270
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ab7e4512858f8c0800000000000000
+      internalID: -3965322571718083965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_25
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 172
+        width: 301
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f7f298076e0d3d0800000000000000
+      internalID: -3183791565538623657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_stance_punch_26
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 171
+        width: 370
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c04d059239b74210800000000000000
+      internalID: 1317225042929336521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5728772a516b2ad4abc02f848da3e552
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walk_stance_punch_0: 1431586157035729953
+      walk_stance_punch_1: -6398280034979766202
+      walk_stance_punch_10: -3382856300200039894
+      walk_stance_punch_11: -4914202565883623948
+      walk_stance_punch_12: 8649354568558165528
+      walk_stance_punch_13: 877397142565405468
+      walk_stance_punch_14: -6163370868409061145
+      walk_stance_punch_15: -4290817566755470576
+      walk_stance_punch_16: -3979029697810140954
+      walk_stance_punch_17: 4939661409207232422
+      walk_stance_punch_18: 1391857695336606772
+      walk_stance_punch_19: 102834170023957360
+      walk_stance_punch_2: -6746161206613696483
+      walk_stance_punch_20: -2242138685390550767
+      walk_stance_punch_21: 2130115312719641317
+      walk_stance_punch_22: -6738397549810470366
+      walk_stance_punch_23: 4973359172059091193
+      walk_stance_punch_24: -3965322571718083965
+      walk_stance_punch_25: -3183791565538623657
+      walk_stance_punch_26: 1317225042929336521
+      walk_stance_punch_3: -4294937629996106370
+      walk_stance_punch_4: -1777156371146433722
+      walk_stance_punch_5: 5423337918748210254
+      walk_stance_punch_6: -8764707071632148601
+      walk_stance_punch_7: 7626171779811892884
+      walk_stance_punch_8: -4836940313148919504
+      walk_stance_punch_9: 2397941386645612180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
