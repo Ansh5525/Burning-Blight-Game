@@ -4,7 +4,7 @@ using UnityEngine.Events;
 
 public class TitleScreen : MonoBehaviour
 {
-    public UnityEvent onAnyKeyPressed; // Assign this event in the Inspector
+    public UnityEvent onAnyKeyPressed;
     //public UnityEvent TitleScreenToMenu;
     public Animator fireAnim;
     public Animator titleAnim;
@@ -14,7 +14,7 @@ public class TitleScreen : MonoBehaviour
 
     void Update()
     {
-        if (Input.anyKeyDown && flag) // Detect any key press
+        if (Input.anyKeyDown && flag)
         {
             StartCoroutine(TitleScreenAnim());
             flag = false;
@@ -39,6 +39,6 @@ public class TitleScreen : MonoBehaviour
             fireAnim.gameObject.SetActive(false);
         }
         yield return new WaitForSeconds(titleDuration);
-        onAnyKeyPressed.Invoke(); // Trigger the event
+        onAnyKeyPressed.Invoke();
     }
 }

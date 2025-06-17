@@ -19,6 +19,7 @@ public class MainMenu : MonoBehaviour
 
     public MenuEntry menuEntry;
 
+    public UnityEvent onSelectVersus;
     public UnityEvent onSelectOptions;
 
 
@@ -201,10 +202,11 @@ public class MainMenu : MonoBehaviour
         }
     }
 
-    void VersusMenuTransition()
+    IEnumerator VersusMenuTransition()
     {
         fireRise.gameObject.SetActive(true);
-        //this function is to be made an IEnumerator type to wait for sometime before the scene is to be changed to versus menu
+        yield return new WaitForSeconds(0.65f);
+        onSelectVersus.Invoke();
     }
 
     IEnumerator OptionsMenuTransition()
@@ -238,7 +240,7 @@ public class MainMenu : MonoBehaviour
         fire.gameObject.SetActive(false);
         if(fire == versusFire)
         {
-            VersusMenuTransition();
+            StartCoroutine(VersusMenuTransition());
         }
         else if(fire == optionsFire)
         {

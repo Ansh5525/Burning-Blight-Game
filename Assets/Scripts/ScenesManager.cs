@@ -1,11 +1,11 @@
-using UnityEditor.Timeline.Actions;
+//using UnityEditor.Timeline.Actions;
 using UnityEngine;
 
 public class ScenesManager : MonoBehaviour
 {
     public GameObject titleScreen;
     public GameObject mainMenu;
-    //public GameObject characterSelect;
+    public GameObject characterSelect;
     public GameObject fightingRing;
     public GameObject optionsMenu;
 
@@ -45,13 +45,11 @@ public class ScenesManager : MonoBehaviour
         }
         SetActivePanel(mainMenu);
     }
-
-    /*
     public void ShowCharacterSelect()
     {
         SetActivePanel(characterSelect);
     }
-    */
+
     public void ShowFightingRing()
     {
         SetActivePanel(fightingRing);
@@ -66,7 +64,7 @@ public class ScenesManager : MonoBehaviour
         // Disable all panels first
         titleScreen.SetActive(false);
         mainMenu.SetActive(false);
-        //characterSelect.SetActive(false);
+        characterSelect.SetActive(false);
         fightingRing.SetActive(false);
         optionsMenu.SetActive(false);
 

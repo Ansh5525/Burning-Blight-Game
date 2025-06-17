@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c20045df11d56fa44b6180295efdb105, type: 3}
+  m_Name: Zynn
+  m_EditorClassIdentifier: 
+  charName: Zynn
+  icon: {fileID: 2221598471203666740, guid: 2070b9925a1796447a4feb8e6b639735, type: 3}
+  vsArt: {fileID: 3001493930273038973, guid: b730afaed30c4044c9056b67a4867b78, type: 3}

@@ -18,7 +18,7 @@ public class Inputs
 
     
 
-    void defaultP1()
+    public void setDefaultP1()
     {
         MoveUp = KeyCode.W;
         MoveLeft = KeyCode.A;
@@ -33,7 +33,7 @@ public class Inputs
         Ultimate = KeyCode.V;
     }
 
-    void defaultP2() 
+    public void setDefaultP2() 
     {
         MoveUp = KeyCode.I;
         MoveLeft = KeyCode.J;

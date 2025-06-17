@@ -7,6 +7,9 @@ public class BaseChar : MonoBehaviour
     [SerializeField] Animator anim;
     [SerializeField] Rigidbody2D rb;
 
+    //[SerializeField] public SpriteRenderer icon;
+    //[SerializeField] public SpriteRenderer art;
+
     [SerializeField] int walkSpeed;
     
     int facing;
